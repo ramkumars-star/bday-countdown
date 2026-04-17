@@ -13,19 +13,19 @@ function MessageCard({ isActive }) {
   const curtainHintRef = useRef(null);
   const messageContentRef = useRef(null);
 
-  const message = `[Recipient Name],
+  const message = `Akshaya,
 
-Your personalized birthday message goes here.
+Not gonna lie… matching with you on Bumble turned out to be way more interesting than I expected… especially because of you 😌
 
-You can write multiple paragraphs to express your feelings,
-share memories, and make this special day even more memorable.
+I hope your day is full of attention, compliments, and people reminding you how amazing you are… but I feel like I should be the one doing that the most 😉
 
-This template supports multiple lines and formatting,
-so feel free to customize it completely to fit your style.
+You’ve got this way of being effortlessly charming… it’s a bit unfair honestly. Makes it really hard not to want to meet you soon and see if you’re even better in person 👀
+
+Enjoy your day… but don’t get too used to celebrating without me.
 
 Happy Birthday! 🎉
 
-— [Your Name]`;
+— Ram`;
 
   // Handle page transitions
   useEffect(() => {
