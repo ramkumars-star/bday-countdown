@@ -13,17 +13,15 @@ function MessageCard({ isActive }) {
   const curtainHintRef = useRef(null);
   const messageContentRef = useRef(null);
 
-  const message = `Akshaya,
+  const message = `Happy birthday, Bava 🎉
 
-Not gonna lie… matching with you on Bumble turned out to be way more interesting than I expected… especially because of you 😌
+I keep smiling today for no reason — except the real reason is that you're actually here. After everything that kept us apart, having you home again makes this birthday feel like the start of something we get to build without looking over our shoulders.
 
-I hope your day is full of attention, compliments, and people reminding you how amazing you are… but I feel like I should be the one doing that the most 😉
+That time apart didn't make me forget you for a second. If anything, it taught me exactly how much better my life is with you in it. So today isn't only about you turning more impossibly wonderful (though, for the record, you are) — it's about us, back where we belong.
 
-You’ve got this way of being effortlessly charming… it’s a bit unfair honestly. Makes it really hard not to want to meet you soon and see if you’re even better in person 👀
+I want you to feel this, not just read it: you're safe with me. You're my priority. Whatever comes next, I've got you — always in your corner, always standing between you and anything that could hurt you.
 
-Enjoy your day… but don’t get too used to celebrating without me.
-
-Happy Birthday! 🎉
+Happy birthday, my love. Welcome home. Let's not do 'apart' again.
 
 — Ram`;
 
